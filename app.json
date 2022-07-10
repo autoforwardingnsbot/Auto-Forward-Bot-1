@@ -11,7 +11,7 @@
   ],
   "success_url": "https://t.me/trtechguide",
   "website": "https://trtechguide.wordpress.com",
-  "repository": "https://github.com/TR-TECH-GUIDE/Auto-Forward-Bot",
+  "repository": "https://github.com/autoforwardingnsbot/Auto-Forward-Bot",
   "env": {
     "API_ID": {
       "description": "Get this value from https://my.telegram.org",
